@@ -2,22 +2,31 @@
 Console.WriteLine("Hello, World!");
 
 
+
 public class Marcas
 {
     public int Id;
     public string? Nombre;
+
+    public string? Nacionalidad;
 }
+public class Locales
+{
+    public int id;
+    public string? Direccion;
+    public List<Zapatos>? ZapatosDisponibles;
+
+    
+}
+
 public class Personas
 {
     public int Id;
     public string? Nombre;
 
     public string? Telefono;
-}
 
-public class Catalogo
-{
-    public List<Zapatos>? Zapatos;
+    public List<Zapatos>? ZapatosComprados;
 }
 
 public class Zapatos
@@ -27,4 +36,6 @@ public class Zapatos
     public string? Nombre;
 
     public Marcas? Marca;
+
+    public int CantidadVendida;
 }

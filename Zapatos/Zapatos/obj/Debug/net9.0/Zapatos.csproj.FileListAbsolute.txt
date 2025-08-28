@@ -1,0 +1,15 @@
+C:\Users\mauri\Desktop\Mauricio_Velasquez_Zapatos\Zapatos\Zapatos\bin\Debug\net9.0\Zapatos.exe
+C:\Users\mauri\Desktop\Mauricio_Velasquez_Zapatos\Zapatos\Zapatos\bin\Debug\net9.0\Zapatos.deps.json
+C:\Users\mauri\Desktop\Mauricio_Velasquez_Zapatos\Zapatos\Zapatos\bin\Debug\net9.0\Zapatos.runtimeconfig.json
+C:\Users\mauri\Desktop\Mauricio_Velasquez_Zapatos\Zapatos\Zapatos\bin\Debug\net9.0\Zapatos.dll
+C:\Users\mauri\Desktop\Mauricio_Velasquez_Zapatos\Zapatos\Zapatos\bin\Debug\net9.0\Zapatos.pdb
+C:\Users\mauri\Desktop\Mauricio_Velasquez_Zapatos\Zapatos\Zapatos\obj\Debug\net9.0\Zapatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mauri\Desktop\Mauricio_Velasquez_Zapatos\Zapatos\Zapatos\obj\Debug\net9.0\Zapatos.AssemblyInfoInputs.cache
+C:\Users\mauri\Desktop\Mauricio_Velasquez_Zapatos\Zapatos\Zapatos\obj\Debug\net9.0\Zapatos.AssemblyInfo.cs
+C:\Users\mauri\Desktop\Mauricio_Velasquez_Zapatos\Zapatos\Zapatos\obj\Debug\net9.0\Zapatos.csproj.CoreCompileInputs.cache
+C:\Users\mauri\Desktop\Mauricio_Velasquez_Zapatos\Zapatos\Zapatos\obj\Debug\net9.0\Zapatos.sourcelink.json
+C:\Users\mauri\Desktop\Mauricio_Velasquez_Zapatos\Zapatos\Zapatos\obj\Debug\net9.0\Zapatos.dll
+C:\Users\mauri\Desktop\Mauricio_Velasquez_Zapatos\Zapatos\Zapatos\obj\Debug\net9.0\refint\Zapatos.dll
+C:\Users\mauri\Desktop\Mauricio_Velasquez_Zapatos\Zapatos\Zapatos\obj\Debug\net9.0\Zapatos.pdb
+C:\Users\mauri\Desktop\Mauricio_Velasquez_Zapatos\Zapatos\Zapatos\obj\Debug\net9.0\Zapatos.genruntimeconfig.cache
+C:\Users\mauri\Desktop\Mauricio_Velasquez_Zapatos\Zapatos\Zapatos\obj\Debug\net9.0\ref\Zapatos.dll
