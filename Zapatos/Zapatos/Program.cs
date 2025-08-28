@@ -2,58 +2,53 @@
 Console.WriteLine("Hello, World!");
 
 
-<<<<<<< HEAD
-=======
 
->>>>>>> Desarrollo
+
+
 public class Marcas
 {
     public int Id;
     public string? Nombre;
-<<<<<<< HEAD
 }
-=======
 
-    public string? Nacionalidad;
-}
+
+
+    
+
 public class Locales
 {
     public int id;
     public string? Direccion;
     public List<Zapatos>? ZapatosDisponibles;
+    public string? Nacionalidad;
 
     
 }
 
->>>>>>> Desarrollo
+
 public class Personas
 {
     public int Id;
     public string? Nombre;
 
     public string? Telefono;
-<<<<<<< HEAD
-}
-
-public class Catalogo
-{
-    public List<Zapatos>? Zapatos;
-=======
-
     public List<Zapatos>? ZapatosComprados;
->>>>>>> Desarrollo
 }
+public class Catalogo
+    {
+        public List<Zapatos>? Zapatos;
+    }
 
-public class Zapatos
-{
-    public int Id;
+    public class Zapatos
+    {
+        public int Id;
 
-    public string? Nombre;
+        public string? Nombre;
 
-    public Marcas? Marca;
-<<<<<<< HEAD
-=======
+        public Marcas? Marca;
 
-    public int CantidadVendida;
->>>>>>> Desarrollo
-}
+
+        public int CantidadVendida;
+    }
+
+    //Mensaje para diferenciar ramas, esta debe ser main
